@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.page-header {
+    text-align: center;
+}
+
+.recipe-list {
+    text-align: center;
+}
+
+.lasagna-header {
+    background: yellow;
+    text-align: center;
+}
+
+.small-header {
+    background: red;
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.pancakes-header {
+    background: blue;
+    text-align: center;
+    color: white;
+}
+
+.pie-header {
+    background: green;
+    text-align: center;
+    color: white;
+}
